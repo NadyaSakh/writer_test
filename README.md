@@ -2,12 +2,12 @@
 
 Тестовый проект/Тестовый проект v2
 
-## Начало работы
+## Начало
 
-### Подготовка
+### Подготовка к работе
 
 1. Получение зависимостей: `flutter pub get`
-2. Генерация файлов: `flutter pub run build_runner build --delete-conflicting-outputs`
+2. Генерация файлов в директории: `flutter pub run build_runner build --delete-conflicting-outputs`
 3. Можно также настроить run configuration для запуска из IDE
 
 
