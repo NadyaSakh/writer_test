@@ -4,7 +4,7 @@
 
 ## Начало работы
 
-### Подготовка работы
+### Подготовка к работе
 
 1. Получение зависимостей: `flutter pub get`
 2. Генерация файлов проекта: `flutter pub run build_runner build --delete-conflicting-outputs`
