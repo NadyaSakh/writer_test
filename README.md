@@ -4,11 +4,11 @@
 
 ## Начало работы
 
-### Подготовка
+### Подготовка работы
 
 1. Получение зависимостей: `flutter pub get`
-2. Генерация файлов: `flutter pub run build_runner build --delete-conflicting-outputs`
-3. Можно также настроить run configuration для запуска из IDE
+2. Генерация файлов проекта: `flutter pub run build_runner build --delete-conflicting-outputs`
+3. Можно также настроить run configuration для запуска из IDE.
 
 
 ### Тестовый проект
