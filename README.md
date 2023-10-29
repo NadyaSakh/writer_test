@@ -11,7 +11,7 @@
 3. Можно также настроить run configuration для запуска из IDE.
 
 ![repo](https://drive.google.com/file/d/1PSzt1Us_Bb1JDgUzUPj1px0LIZQsLmwV/view?usp=sharing)
-
+![Example Image](https://drive.google.com/uc?id=1PSzt1Us_Bb1JDgUzUPj1px0LIZQsLmwV)
 ### Тестовый проект
 
 1. Настройка env: Создать файл `.env` и скопировать в него содержимое `.env.dev`
